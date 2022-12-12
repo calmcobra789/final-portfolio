@@ -1,0 +1,31 @@
+[
+    {
+      "name": "Chunking server workflows",
+      "description": "eggs",
+      "organization": "Coda.io",
+      "image": "images/chunking1.png",
+      "date": "Summer 2022"
+    },
+    {
+      "name": "Iterative Design",
+      "description": "eggs",
+      "organization": "Brown CS: CS1300 UIUX",
+      "image": "images/b1.jpeg",
+      "date": "October 2022"
+    },
+    {
+      "name": "Development",
+      "description": "eggs",
+      "organization": "Brown CS: CS1300 UIUX",
+      "image": "images/development.png",
+      "date": "November 2022"
+    },
+    {
+      "name": "Responsive Redesign",
+      "description": "eggs",
+      "organization": "Brown CS: CS1300 UIUX",
+      "image": "images/redesign.png",
+      "date": "October 2022"
+    }
+  ]
+  
