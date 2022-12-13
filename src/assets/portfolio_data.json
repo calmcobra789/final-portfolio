@@ -1,7 +1,7 @@
 [
     {
       "name": "Chunking server workflows",
-      "description": "eggs",
+      "description": "Chunking uncommitted operations using TypesScript",
       "organization": "Coda.io",
       "image": "images/chunking1.png",
       "date": "Summer 2022",
@@ -17,15 +17,15 @@
     },
     {
       "name": "Using Personas in Design",
-      "description": "eggs",
+      "description": "Exploring the importance of personas in design",
       "organization": "Brown CS: CS1300 UIUX",
-      "image": "images/development.png",
+      "image": "images/personas.png",
       "date": "September 2022",
       "link": "https://calmcobra789.github.io/personas/"
     },
     {
       "name": "Responsive Redesign",
-      "description": "eggs",
+      "description": "Redesigning Berkshire Hathaway's counterintuitive webpage to make it more intuitive and responsive",
       "organization": "Brown CS: CS1300 UIUX",
       "image": "images/redesign.png",
       "date": "October 2022",

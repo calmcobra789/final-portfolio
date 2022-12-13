@@ -85,7 +85,7 @@ function App() {
         </div>
 
         <div className = "Body-Content">
-        <h2>Past Projects</h2>  
+        <br></br><h2>Past Projects</h2>  
         <Grid container spacing={5}>
           <Grid item xs={8}>
             <DisplayCard item = {portfolio_data[0]}/>

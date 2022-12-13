@@ -39,7 +39,7 @@ export default function DisplayCard(props) {
           {item.organization}
         </Typography>
         <Typography variant="body2">
-          {item.descrpiton}
+          {item.description}
           <br />
         </Typography>
       </CardContent>
