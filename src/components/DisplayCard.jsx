@@ -9,7 +9,7 @@ import CardMedia from '@mui/material/CardMedia';
 
 export default function DisplayCard(props) {
   const item = props.item;
-  console.log(item);
+//   console.log(item);
 
 
   return (
@@ -44,9 +44,10 @@ export default function DisplayCard(props) {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button size="small" onClick={console.log("clicked 1")}> Learn More </Button>
+        <a href= {item.link}> <Button size="small"> Learn More </Button></a>
       </CardActions>
     </Card>
+    
     </div>
   );
 }

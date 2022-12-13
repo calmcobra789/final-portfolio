@@ -4,28 +4,32 @@
       "description": "eggs",
       "organization": "Coda.io",
       "image": "images/chunking1.png",
-      "date": "Summer 2022"
+      "date": "Summer 2022",
+      "link": "https://calmcobra789.github.io/coda-blog/"
     },
     {
       "name": "Iterative Design",
-      "description": "eggs",
+      "description": "Group project: reconceptualizing the UI of a startup's product",
       "organization": "Brown CS: CS1300 UIUX",
-      "image": "images/b1.jpeg",
-      "date": "October 2022"
+      "image": "images/iterative.png",
+      "date": "October 2022",
+      "link": "https://crazysloth645.github.io/iterativeFinal/"
     },
     {
-      "name": "Development",
+      "name": "Using Personas in Design",
       "description": "eggs",
       "organization": "Brown CS: CS1300 UIUX",
       "image": "images/development.png",
-      "date": "November 2022"
+      "date": "September 2022",
+      "link": "https://calmcobra789.github.io/personas/"
     },
     {
       "name": "Responsive Redesign",
       "description": "eggs",
       "organization": "Brown CS: CS1300 UIUX",
       "image": "images/redesign.png",
-      "date": "October 2022"
+      "date": "October 2022",
+      "link": "https://calmcobra789.github.io/responsive-redesign-submission/"
     }
   ]
   
