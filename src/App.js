@@ -20,7 +20,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         Welcome to
-        <h1>CalmCobra's Portfolio</h1>
+        <h1>Suyash Kothari's Portfolio</h1>
         <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
         
 
@@ -42,8 +42,10 @@ function App() {
 
         <div className = "intro">
 
-        Brown CS senior; seeking product, backend and full-stack software roles. Prev @ Coda, Tencent. Ready to learn fast and contribute to something great.
-        I'm also passionate about <b>wildlife photography!</b>
+        Brown CS senior (grad. May 2023); seeking product, backend and full-stack software roles. Currently Head Teaching Assistant for Brown CS's deprtment-wide Socially Responsible Computing program. Prev @ Coda, Tencent. Ready to learn fast and contribute to something great.
+        I'm also passionate about wildlife photography!
+
+        [Coding in Progress]
         <Grid container spacing={1}>
           <Grid item xs={1}>
             {/* <LinkedInIcon fontSize="large"/> */}
@@ -61,10 +63,10 @@ function App() {
             {/* <LinkedInIcon fontSize="large"/> */}
           </Grid>
           <Grid item xs={1}>
-            <EmailIcon fontSize="large"/>
+            <a href= {"mailto:suyash.kothari4@gmail.com"}><EmailIcon fontSize="large"/></a>
           </Grid>
           <Grid item xs={1}>
-            <LinkedInIcon fontSize="large"/>
+           <a href= {"https://www.linkedin.com/in/suyash-kothari/"}><LinkedInIcon fontSize="large"/></a>
           </Grid>
           <Grid item xs={1}>
             {/* <LinkedInIcon fontSize="large"/> */}
