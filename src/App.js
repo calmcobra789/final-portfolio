@@ -63,10 +63,10 @@ function App() {
             {/* <LinkedInIcon fontSize="large"/> */}
           </Grid>
           <Grid item xs={1}>
-            <a href= {"mailto:suyash.kothari4@gmail.com"}><EmailIcon fontSize="large"/></a>
+            <a href= "mailto:suyash.kothari4@gmail.com" target="_blank" rel="noopener noreferrer"><EmailIcon fontSize="large"/></a>
           </Grid>
           <Grid item xs={1}>
-           <a href= {"https://www.linkedin.com/in/suyash-kothari/"}><LinkedInIcon fontSize="large"/></a>
+           <a href= "https://www.linkedin.com/in/suyash-kothari/" target="_blank" rel="noopener noreferrer"><LinkedInIcon fontSize="large"/></a>
           </Grid>
           <Grid item xs={1}>
             {/* <LinkedInIcon fontSize="large"/> */}
